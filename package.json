@@ -1,0 +1,19 @@
+{
+  "name": "casperPageCrawler",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "spooky": "~0.2.2",
+    "optimist": "~0.5.2",
+    "fs-extra": "~0.6.1",
+    "request": "~2.21.0"
+  }
+}
